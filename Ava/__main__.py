@@ -40,8 +40,8 @@ PM_START_TEX = """
 ʜᴇʟʟᴏ `{}`, ʜᴏᴡ ᴀʀᴇ ʏᴏᴜ \nᴡᴀɪᴛ ᴀ ᴍᴏᴍᴇɴᴛ ʙʀᴏ . . . 
 """
 
-START_IMG = "https://telegra.ph/file/551c987ff6964e408defb.jpg"
-HELP_IMG = "https://telegra.ph/file/e8170cda7390946b750f7.jpg"
+START_IMG = "https://telegra.ph/file/64d0cb6bc7da45d8f53e4.jpg"
+HELP_IMG = "https://telegra.ph/file/78bfbb156864546c4ab4b.jpg"
 
 buttons = [
     [
