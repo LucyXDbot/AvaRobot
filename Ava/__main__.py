@@ -45,7 +45,7 @@ HELP_IMG = "https://telegra.ph/file/e8170cda7390946b750f7.jpg"
 
 buttons = [
     [
-        InlineKeyboardButton(text="❣ ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ ❣︎", url=f"t.me/{BOT_USERNAME}?startgroup=new"),
+        InlineKeyboardButton(text="ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ", url=f"t.me/{BOT_USERNAME}?startgroup=new"),
     ],
     [
         InlineKeyboardButton(text="ʜᴇʟᴩ & ᴄᴏᴍᴍᴀɴᴅs", callback_data="help_back"),
